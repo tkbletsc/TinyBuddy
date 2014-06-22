@@ -10,6 +10,7 @@ Rev1: A micro-USB powered prototype.
 - Surface mount micro USB sucks to solder
 - Programming ribbon cable presses up against reset button
 - Pin silkscreens often cut off
+- Labels of S7 and S8 reversed (duh!)
 
 Rev2:
 
@@ -19,3 +20,4 @@ Rev2:
 better
 - Design now uses entirely through-hole components
 - Tweaked pin silk screens
+- Fixed button labels
