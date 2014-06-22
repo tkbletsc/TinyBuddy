@@ -1,10 +1,7 @@
 TinyBuddy
 =========
 
-A host PCB for the ATtiny84 microcontroller.  
-Features two buttons, an activity LED, 16MHz crystal for accurate timekeeping, and USB or DC barrel jack for power.  
-The Rev2 design using entirely through-hole parts for easy construction.  
-Can be fabricated for about $7 through OSH Park.
+A host PCB for the ATtiny84 microcontroller.  Features two buttons, an activity LED, 16MHz crystal for accurate timekeeping, and USB or DC barrel jack for power.  The Rev2 design using entirely through-hole parts for easy construction.  Can be fabricated for about $7 through OSH Park.
 
 
 Rev1: A micro-USB powered prototype.
